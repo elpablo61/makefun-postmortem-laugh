@@ -1,0 +1,1 @@
+{"description":"make.fun entry: The Postmortem That Made Us Laugh — a one-story account of an AI coding agent wiring a delete confirmation dialog backwards.","license":"MIT","main":"main.ts","name":"makefun-postmortem-laugh","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
